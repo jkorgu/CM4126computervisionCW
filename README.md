@@ -1,2 +1,2 @@
 # CM4126computervisionCW
-Computer Vision Coursework Submission
+The Google Colab link is in the "colabLink.txt" file
